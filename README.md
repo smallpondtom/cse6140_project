@@ -1,6 +1,6 @@
 # CSE6140 Fall 2025 - Group 6 Project
 
-This repository contains the implementation and analysis code for the CSE6140 course project at Georgia Tech. The project focuses on brute force, approximation, local search (simulated annealing) algorithms for solving the Traveling Salesman Problem (TSP).
+This repository contains the implementation and analysis code for the CSE6140 course project at Georgia Tech. The project focuses on brute force, approximation, local search (simulated annealing) algorithms for solving the **Traveling Salesman Problem (TSP)**.
 
 ![TSP Tour Example](plot/NYC_BF_30.png)
 
