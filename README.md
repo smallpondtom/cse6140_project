@@ -16,7 +16,8 @@ This repository contains the implementation and analysis code for the CSE6140 co
   - `code/analysis.py`: Script for analyzing the performance of the implemented algorithms.
   - `code/brute_force.py`: Implementation of the brute force algorithm for TSP.
   - `code/approx.py`: Implementation of the approximation algorithm for TSP.
-  - `code/local_search.py`: Implementation of the local search (simulated annealing) algorithm for TSP.
+  - `code/local_search/local_search.py`: Implementation of the local search (nearest-neighbor) algorithm for TSP (**this is used for analysis**).
+  - `code/local_search_simulated_annealing.py`: Another implementation of the local search algorithm using simulated annealing for TSP (**this is extra**).
 - `data/`: Directory containing TSP dataset files.
 - `result/`: Directory to store the analysis CSV file.
 - `output/`: Directory to store output from algorithm executions (such as tours and distances) in `.sol` file format.
