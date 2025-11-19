@@ -9,7 +9,8 @@ Run the following command in the terminal:
 
 import argparse
 import os
-from local_search import local_search
+from local_search.local_search import local_search
+#from local_search_simulated_annealing import local_search
 from plot_tour import plot_tour
 from write_output import write_output
 
