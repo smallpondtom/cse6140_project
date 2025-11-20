@@ -13,7 +13,7 @@ import argparse
 import os
 from brute_force import brute_force
 from approx import approx
-from local_search import local_search
+from local_search.local_search import local_search
 from plot_tour import plot_tour
 from write_output import write_output
 

@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 from brute_force import brute_force
 from approx import approx
-from local_search import local_search
+from local_search.local_search import local_search
 from write_output import write_output
 
 
